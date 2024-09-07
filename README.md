@@ -10,7 +10,7 @@
 -🚀 Skills
 
 - Languages: HTML, CSS, PYTHON, MYSQL, Basic JAVASCRIPT, Basic JAVA
-- Frameworks and Libraries: Django
+- Frameworks and Libraries: React JS,Bootstrap,Django
 - Tools and Platforms: Visual Studio Code
 - Other: Git , Github
 <!---
