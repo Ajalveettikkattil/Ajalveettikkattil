@@ -1,6 +1,23 @@
 - 👋 Hi, I’m Ajal.C
-- I'm a recent BCA (Bachelor of Computer Applications) graduate based in Palakkad(Kerala,India), aspiring to start my career in IT development. I'm passionate about technology and eager to apply my skills in a professional setting.
-- 🎓 I graduated with a BCA from Bharathiar University(2024 passout)
+
+QA Automation Engineer
+
+QA Automation Engineer with hands-on experience in manual and automation testing, currently working with Selenium WebDriver, Java, JUnit, Maven, Jenkins, Git, and Jira.
+
+I have experience testing web applications in the Travel, Transportation & Hospitality (TTH) domain and working in Agile/Scrum environments.
+
+🛠️ QA & Automation Skills
+Programming: Java
+Automation: Selenium WebDriver, JUnit
+Framework: Page Object Model (POM), Reusable Utilities
+Build Tools: Maven
+CI/CD: Jenkins
+Version Control: Git
+Defect Tracking: Jira
+API Testing: Postman
+Database: SQL
+Testing: Manual, Functional, Regression, Smoke, Sanity, Cross-Browser Testing
+Methodology: Agile, Scrum
 
 - 📫 Connect with Me
   
